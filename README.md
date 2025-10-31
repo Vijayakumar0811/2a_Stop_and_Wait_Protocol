@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+# 2a_Stop_and_Wait_ProtocoL
 ### NAME: VIJAYAKUMAR S
 ### REG NO: 212224040359
 ## AIM 
